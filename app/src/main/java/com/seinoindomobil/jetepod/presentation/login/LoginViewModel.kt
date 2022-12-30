@@ -52,7 +52,7 @@ class LoginViewModel @Inject constructor(
         dataStoreRepository.putString(USER_ID,value)
     }
     fun getUserName():String = runBlocking {
-        dataStoreRepository.getString(USER_ID)!!
+        dataStoreRepository.getString(USER_ID).toString()
     }
 
     fun clearPreferences(key:String) = runBlocking {
