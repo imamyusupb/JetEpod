@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">JetEpod</string>
+
+    <!--    LOGIN-->
+    <string name="IntroText">Hai, Selamat Datang</string>
+    <string name="SubIntroText">Silahkan login terlebih dahulu untuk mengakses aplikasi</string>
+    <string name="Epod">E-pod</string>
+    <string name="EpodComplete">Electronic Proof of Delivery</string>
+
+    <!--    SPLASHSCHREEN-->
+    <string name="TitleSplash">E-POD</string>
+    <string name="SubTitleSplash">Electronic Proof of Delivery</string>
+    <string name="CreatorSplash">Supported By Seino Indomobil Logistics</string>
+
+
+    <!--    ONBOARDING-->
+    <string name="OnBoardingText1">Selamat datang di aplikasi E-POD aplikasi untuk membantu proses pengiriman PT Seino Indomobil Logistics</string>
+    <string name="OnBoardingText2">Buat ticket pengiriman barang,jadwalkan sesuai kebutuhan anda</string>
+    <string name="OnBoardingText3">Lacak pengiriman anda, pastikan semua pengiriman sesuai dengan permintaan </string>
+    <string name="OnBoardingText4">Kami pastikan pengiriman tepat waktu dan sesuai dengan yang telah anda jadwalkan</string>
+    <string name="OnBoardingText5">Semakin mudah cek invoice pembayaran anda kami memberikan fitur invoice digital untuk memudahkan melihat invoice</string>
+    <string name="OnBoardingText6">Jadwalkan kebutuhan unit Anda langsung melalui aplikasi E-Pod. Praktis, mudah, dan cepat</string>
+
+
+    <!--    HOME-->
+    <string name="beranda">Beranda</string>
+    <string name="profile">Profile</string>
+    <string name="pesanan">Pesanan</string>
+
+
+</resources>
